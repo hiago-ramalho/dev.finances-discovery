@@ -1,4 +1,4 @@
-###dev.finances-discovery
+### dev.finances-discovery
 
 __dev.finance$__ foi um projeto desenvolvido na Maratona Discovery da [Rocketseat](https://rocketseat.com.br/) com o intuito de ajudar Devs iniciantes à práticar seus conhecimentos.
 
